@@ -1,0 +1,2 @@
+class BusinessStage < ApplicationRecord
+end

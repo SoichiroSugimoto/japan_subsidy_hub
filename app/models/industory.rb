@@ -1,0 +1,2 @@
+class Industory < ApplicationRecord
+end
