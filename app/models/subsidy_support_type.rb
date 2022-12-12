@@ -1,0 +1,2 @@
+class SubsidySupportType < ApplicationRecord
+end

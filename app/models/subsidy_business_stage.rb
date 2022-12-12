@@ -1,0 +1,2 @@
+class SubsidyBusinessStage < ApplicationRecord
+end

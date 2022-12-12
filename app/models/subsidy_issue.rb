@@ -1,0 +1,2 @@
+class SubsidyIssue < ApplicationRecord
+end

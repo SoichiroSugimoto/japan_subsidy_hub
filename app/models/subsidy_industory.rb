@@ -1,0 +1,2 @@
+class SubsidyIndustory < ApplicationRecord
+end
